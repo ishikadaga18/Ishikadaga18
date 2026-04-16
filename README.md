@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ishika Daga 👋
 
-<!--
-**ishikadaga18/Ishikadaga18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Digital Marketing Enthusiast passionate about data-driven strategies and creative storytelling.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 📊 Skilled in SEO, Google Ads, Meta Ads, and Google Analytics 4 (GA4)
+- 🌐 Experienced in WordPress website development (no-code)
+- 📈 Interested in Performance Marketing and Brand Strategy
+- 📍 Based in Amravati , India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Search Engine Optimization (SEO)
+- Google Ads & Meta Ads
+- Social Media Marketing & Content Strategy
+- Email Marketing & CRM Automation
+- Market Research & Competitor Analysis
+
+## 📂 Projects
+- 🔍 SEO Audit for a Sample Website
+- 📊 Google Ads Campaign Strategy
+- 📱 Social Media Content Calendar
+- 🌐 WordPress Business Website
+
+## 🎓 Certifications
+- Digital Marketing Certification – NIIT
+
+## 📫 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/ishikadaga
+- 📧 Email: ishikadaga18@gmail.com
